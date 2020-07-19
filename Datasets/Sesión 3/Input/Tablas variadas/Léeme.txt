@@ -1,0 +1,18 @@
+********************************
+* DESCRIPCIÓN CONTENIDO TABLAS *
+********************************
+
+Ccaaprov - Tabla que relaciona las CCAA con sus provincias. Incluye los identificadores.
+Madrid - Listado de alumnos de Madrid ficticios a un master.
+Matrimonios2008 - Cantidad de matrimonios ocurridos en cada mes y provincia a lo largo del 2008.
+Munimadrid09 - Distribución de la población de madrid en sus municipios (incluidos hombres y mujeres) del año 2009.
+Pernoctaciones - Noches consumidas en hoteles, a nivel provincial para todos los meses del año 2009.
+Sevilla - Listado de alumnos de Sevilla ficticios a un master.
+Territorio09 - Datos territoriales (población y superficie) para cada provincia. Año 2009.
+
+*********
+* NOTAS *
+*********
+1. Los conjuntos Ccaaprov, Matrimonios2008, Pernoctaciones, Territorio09 pueden ser útiles para cruces y filtros.
+2. Las tablas Madrid y Sevilla pueden ser útiles para cruces y encontrar duplicados entre ellas.
+3. La tabla Munimadrid09 puede ser útil para operaciones.

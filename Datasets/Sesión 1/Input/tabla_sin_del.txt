@@ -1,0 +1,6 @@
+4954591590Tarjetas    0.75 to < 2.50
+4911591590Hipoteca    0.75 to < 2.50
+4966591590Resto Retail0.75 to < 2.50
+4947591590Tarjetas    1.75 to < 2.50
+49 2591590Tarjetas    0.75 to < 2.50
+49  391590Tarjetas    100 default   

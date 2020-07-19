@@ -1,0 +1,13 @@
+********************************
+* DESCRIPCIÓN CONTENIDO TABLAS *
+********************************
+Bibliotecas08, Bingos08, Casinos08 y Museos08 contienen, por CCAA, la cantidad de bibliotecas, bingos, casinos y museos, respectivamente, para el año 2008.
+
+Padron08 - población de cada CCAA en 2008.
+
+ccaaprov - Relación de CCAA con provincias, inclcuyendo los identificadores.
+
+*********
+* NOTAS *
+*********
+1. Estos conjuntos de datos están bien para efectuar uniones horizontales y después efectuar operaciones matemáticas de ratios para clasificar / ordenar los conjuntos.

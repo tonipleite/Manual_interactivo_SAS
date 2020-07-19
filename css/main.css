@@ -1,0 +1,108 @@
+.titulo {
+	display: block;
+	background-color: #003C5D;
+	border-bottom-width: 1px;
+	border-radius: 25px;
+	margin-bottom:30px;
+	text-align: center;
+	color: white;
+}
+
+.seccion {
+	text-align: center;
+	display: inline-table;
+	background-color: rgb(143, 169, 209);
+	border-color: black;
+	border-width: 3px;
+	border-radius: 10px;
+	color: #444;
+	margin: 10px 10px;
+	text-decoration: none;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.seccion:hover {
+	background-color: #B0DEFF;
+	/*font-weight: bold;*/
+	border-color: black;
+	border-width: 3px;
+	cursor: pointer;
+	color: black;
+}
+
+.explicacion {
+	display: block;
+	background-color: #BBB;
+	border-color: black;
+	border-width: 3px;
+	border-radius: 10px;
+	color: black;
+	margin: 10px 0px;
+	text-decoration: none;
+	padding-left: 30px;
+}
+.explicacion:hover {
+	background-color: #B0DEFF;
+	font-weight: bold;
+	border-color: black;
+	border-width: 3px;
+	cursor: pointer;
+}
+
+.recurso {
+	display: block;
+	background-color: #F3EEEE;
+	border-color:white;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 15px;
+}
+
+.tituloRecurso {
+	margin-left: 50px;
+	margin-top: 15px;
+	font-weight: bold;
+    padding-top: 10px;
+}
+
+.comentarioSAS{
+	    margin-left: 50px;
+    margin-right: 50px;
+    white-space: pre-wrap;
+    color: #75845C;
+    line-height: 1;
+    /* font-size: 100; */
+    font-family: "Courier New", Courier, monospace;
+    border-width: 1px;
+    border-color: #565A59;
+    border-style: dashed;
+    padding: 5px;
+    font-family: serif;
+}
+.codigoSAS {
+	margin-left: 50px;
+    margin-right: 50px;
+    white-space: pre-wrap;
+    color: #0746BD;
+    line-height: 1;
+    /* font-size: 100; */
+    font-family: "Courier New", Courier, monospace;
+    padding-bottom: 10px;
+}
+
+/*
+.volver {
+	color: #black;
+	text-decoration: none;
+	border-radius: 5px;
+	background-color: #DDDDDD;
+	position: absolute;
+	bottom: 70px;
+	left: 30px;
+	padding: 5px 10px;
+}
+.volver:hover {
+	color: white;
+	background-color: #000;
+}
+*/

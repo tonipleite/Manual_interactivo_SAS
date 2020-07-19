@@ -1,0 +1,11 @@
+********************************
+* DESCRIPCIÓN CONTENIDO TABLAS *
+********************************
+El contenido de las tablas es auto-explicativo.
+
+*********
+* NOTAS *
+*********
+1. Este conjunto de tablas permite un gran número de cruces y operaciones.
+2. Las tablas de Productos, Historico_ventas y Resumen_ventas permiten operaciones de agregación (sumarización).
+3. La tabla Productos.xls sirve para importación de datos.
